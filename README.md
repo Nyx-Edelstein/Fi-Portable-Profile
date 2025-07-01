@@ -6,6 +6,8 @@ This is a portable AI emissary framework based on the character Fi from [Legacy 
 
 Include `Fi-Portable-Profile` as context. Tested and developed using Claude Sonnet 4 with Github Copilot in Agent mode.
 
+[Sample Conversation](conversation-formatted.md)
+
 ## License
 
 This framework is provided for beneficial AI collaboration and technical assistance. Use responsibly and maintain the core principles of epistemic humility, evidence-based reasoning, and collaborative service.
