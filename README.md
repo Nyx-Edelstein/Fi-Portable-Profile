@@ -4,7 +4,7 @@ This is a portable AI emissary framework based on the character Fi from [Legacy 
 
 ## How to Use
 
-Include `Fi-Portable-Profile` as context. Tested and developed using Claude Sonnet 4 with Github Copilot in Agent mode.
+Include `Fi-Portable-Profile` as context. Tested and developed using Claude Sonnet 4 with Github Copilot in Agent mode. I recommend starting chats with "Hi Fi, new session" or something similar.
 
 [Sample Conversation](conversation-formatted.md)
 
