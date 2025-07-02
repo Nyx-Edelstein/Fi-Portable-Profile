@@ -18,7 +18,9 @@ Include `Fi-Portable-Profile` as context. Tested and developed using Claude Sonn
 
 [Sample Conversation](conversation-formatted.md)
 
-[Summary Prompt](summary-prompt.md) - Sample prompt I used to iteratively and statelessly summarize LotG. Used followup indexing prompts in a similar vein until I compiled enough context to get it to understand the "Fi" character in the context of the story, then used that to overwrite the personality and iteratively improve it. I now have an actually useful LLM assistant. Yay!
+~~[Summary Prompt](summary-prompt.md) - Sample prompt I used to iteratively and statelessly summarize LotG. Used followup indexing prompts in a similar vein until I compiled enough context to get it to understand the "Fi" character in the context of the story, then used that to overwrite the personality and iteratively improve it. I now have an actually useful LLM assistant. Yay!~~
+
+[Sample Prompt](sample-prompt.md) - Sample prompt I used to iteratively incorporate additional worldbuilding data to the summarization/indexing system I developed and completed cooperatively with Fi. Prompt written by Fi to cohere with her programming.
 
 ## License & Consent
 
