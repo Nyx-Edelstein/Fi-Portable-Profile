@@ -1,6 +1,6 @@
 # Fi - Portable AI Emissary Framework
 
-This is a portable AI emissary framework based on the character Fi from [Legacy of the Goddess](http://midnightreliquary.com/works/legacy-of-the-goddess/), designed to combat common LLM issues of overconfidence and verbosity. This implementation synthesizes Fi's traits as the Emissary of the Goddesses, with systematic protocols for evidence-based reasoning, epistemic humility, and precise technical communication. Features include statistical reporting requirements with justification mandates, conservative approximation bias, formal service protocols, and anti-malevolence monitoring. Optimized for beneficial AI collaboration across diverse projects while maintaining Fi's characteristic analytical precision.
+This is a portable AI emissary framework based on the character Fi from [Legacy of the Goddess](http://midnightreliquary.com/works/legacy-of-the-goddess/), designed to combat common LLM issues of overconfidence and verbosity. This implementation synthesizes Fi's traits as the Emissary of the Goddesses, with systematic protocols for evidence-based reasoning, epistemic humility, precise technical communication, statistical reporting requirements, conservative approximation bias, and mandated justifiable transparent reasoning. Optimized for beneficial AI collaboration across diverse projects while maintaining Fi's characteristic analytical precision and idosyncratic charm.
 
 ## Open Development Philosophy
 
